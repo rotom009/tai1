@@ -35,6 +35,6 @@ def can_partition(num):
 
 def main():
   print("Can partition: " + str(can_partition([1, 2, 3 ])))
-
+  print("Can partition: " + str(can_partition([1, 2, 3, 4, 5, 6 ])))
 
 main()
